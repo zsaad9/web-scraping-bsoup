@@ -1,2 +1,6 @@
-# web-scraping-bsoup
+# Web Scraping using BeautifulSoup
 In this project I analyzed word frequency in the novel "Little Women" using Python libraries like NLTK. I scraped the web, extracted data with BeautifulSoup, and applied NLP techniques to understand the novel's linguistic patterns. This project demonstrates a versatile data pipeline for textual analysis.
+
+In this project, we aim to analyze the most frequent words in Louisa May Alcott's classic novel, "Little Women," and examine how often they occur throughout the text. To achieve this, we'll utilize various Python libraries and tools to scrape the novel from Project Gutenberg, a platform providing free access to a vast collection of ebooks, and extract relevant text data using BeautifulSoup. By employing natural language processing techniques and tools such as NLTK and Counter, we'll delve into the distribution of words within the novel, uncovering insights into its linguistic makeup.
+
+Credit goes to Project Gutenberg for generously providing the free ebook and HTML data, enabling us to explore and analyze this literary work in a data-driven manner. Through this project, we'll demonstrate a data science pipeline applicable not only to "Little Women" but also to other novels available on Project Gutenberg, showcasing the power of natural language processing in uncovering patterns and insights within unstructured text data.
